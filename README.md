@@ -25,7 +25,7 @@
     <a href = "mailto: fernandohjesus777@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/](https://www.linkedin.com/in/fernando-henrique-de-jesus-977703125/">
+    <a href = "https://www.linkedin.com/in/fernando-henrique-de-jesus-977703125/">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/fernandoh_777/">
