@@ -8,7 +8,7 @@
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="260" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias que Conheço</h1>
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
